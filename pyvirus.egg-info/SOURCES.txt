@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+pyvirus/__init__.py
+pyvirus/core.py
+pyvirus.egg-info/PKG-INFO
+pyvirus.egg-info/SOURCES.txt
+pyvirus.egg-info/dependency_links.txt
+pyvirus.egg-info/requires.txt
+pyvirus.egg-info/top_level.txt
